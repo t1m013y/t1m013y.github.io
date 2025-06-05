@@ -1,1 +1,7 @@
-{"updater_version":1,"update_url":"https://gist.githubusercontent.com/t1m013y/b11ea10e5580342ddaa0d256df8eb97a/raw/c7410a1abbc01f64c452cbe07fff17ecefc74211/36c57504-7e92-11ef-8af4-fcefdc889377","version":23,"key_id":"d660a228-b6e5-11ef-b16c-fdfae8b4d3a2","outdated_updater_message":""}
+{
+	"updater_version": 1,
+	"update_url": "https://gist.githubusercontent.com/t1m013y/b11ea10e5580342ddaa0d256df8eb97a/raw/79382ad53dd55d1a4ff12c686093f69701fa4b99/36c57504-7e92-11ef-8af4-fcefdc889377",
+	"version": 24,
+	"key_id": "d660a228-b6e5-11ef-b16c-fdfae8b4d3a2",
+	"outdated_updater_message": ""
+}
